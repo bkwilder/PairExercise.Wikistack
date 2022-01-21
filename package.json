@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon ./path/to/your/app.js",
+    "start": "nodemon /Users/brookewilder/Documents/Junior-Phase/week-2/PairExercise.Wikistack/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -13,6 +13,7 @@
     "express": "^4.17.2",
     "html-template-tag": "^3.2.0",
     "morgan": "^1.10.0",
+    "nodemon": "^2.0.15",
     "path": "^0.12.7",
     "pg": "^8.7.1",
     "sequelize": "^6.13.0"
